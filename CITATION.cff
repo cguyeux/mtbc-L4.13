@@ -5,12 +5,15 @@ authors:
   - family-names: Guyeux
     given-names: Christophe
     affiliation: "FEMTO-ST Institute, DISC Department, Univ. Bourgogne Franche-Comté, Besançon, France"
+    orcid: "https://orcid.org/0000-0003-0195-4378"
   - family-names: AlKindy
     given-names: Bassam
     affiliation: "Department of Computer Science, Mustansiriyah University, Baghdad, Iraq"
+    orcid: "https://orcid.org/0000-0002-0964-1184"
   - family-names: AlNayyef
     given-names: Huda
     affiliation: "Department of Computer Science, Mustansiriyah University, Baghdad, Iraq"
+    orcid: "https://orcid.org/0000-0003-3906-9542"
 year: 2026
 status: in-preparation
 repository-code: "https://github.com/cguyeux/mtbc-L4.13"
