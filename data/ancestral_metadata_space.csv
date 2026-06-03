@@ -1,0 +1,269 @@
+strain_id,country,region
+L4.13.1 ERR11049015,Unknown,Unknown
+L4.13.1 ERR11049267,Unknown,Unknown
+L4.13.1 ERR11049355,Unknown,Unknown
+L4.13.1 ERR11049430,Unknown,Unknown
+L4.13.1 ERR11049623,Unknown,Unknown
+L4.13.1 ERR11049970,Unknown,Unknown
+L4.13.1 ERR11050855,Unknown,Unknown
+L4.13.1 ERR11067515,Unknown,Unknown
+L4.13.1 ERR11067522,Unknown,Unknown
+L4.13.1 ERR11067577,Unknown,Unknown
+L4.13.1 ERR11067601,Unknown,Unknown
+L4.13.1 ERR11068099,Unknown,Unknown
+L4.13.1 ERR11081984,Unknown,Unknown
+L4.13.1 ERR11081985,Unknown,Unknown
+L4.13.1 ERR11082995,Unknown,Unknown
+L4.13.1 ERR13093900,Ireland,Western Europe
+L4.13.1 ERR13260031,USA,North America
+L4.13.1 ERR13285463,USA,North America
+L4.13.1 ERR13285511,USA,North America
+L4.13.1 ERR13291662,USA,North America
+L4.13.1 ERR133897,Russia,Eastern Europe
+L4.13.1 ERR2513995,Unknown,Unknown
+L4.13.1 ERR2517475,Unknown,Unknown
+L4.13.1 ERR4407546,Unknown,Unknown
+L4.13.1 ERR4814544,Unknown,Unknown
+L4.13.1 ERR4815345,Unknown,Unknown
+L4.13.1 ERR4815396,Unknown,Unknown
+L4.13.1 ERR4819109,Unknown,Unknown
+L4.13.1 ERR4819365,Unknown,Unknown
+L4.13.1 ERR4828844,Unknown,Unknown
+L4.13.1 ERR4828953,Unknown,Unknown
+L4.13.1 ERR4829273,Unknown,Unknown
+L4.13.1 ERR4829347,Unknown,Unknown
+L4.13.1 ERR4829697,Unknown,Unknown
+L4.13.1 ERR4829761,Unknown,Unknown
+L4.13.1 ERR4831168,Unknown,Unknown
+L4.13.1 ERR9891985,France,Western Europe
+L4.13.1 SRR16370406,missing,Unknown
+L4.13.1 SRR18910996,USA,North America
+L4.13.1 SRR19304124,Italy,Western Europe
+L4.13.1 SRR21686598,USA,North America
+L4.13.1 SRR21689552,Netherlands,Western Europe
+L4.13.1 SRR21690138,Netherlands,Western Europe
+L4.13.1 SRR21690799,Netherlands,Western Europe
+L4.13.1 SRR21732354,Australia,Oceania
+L4.13.1 SRR28409333,USA,North America
+L4.13.1 SRR28646118,Romania,Eastern Europe
+L4.13.1 SRR28858582,USA,North America
+L4.13.1 SRR28860094,USA,North America
+L4.13.1 SRR29052642,USA,North America
+L4.13.1 SRR30984353,USA,North America
+L4.13.1 SRR31008949,Italy,Western Europe
+L4.13.1 SRR33840371,USA,North America
+L4.13.1 SRR33843028,USA,North America
+L4.13.1 SRR33857524,USA,North America
+L4.13.1 SRR33912642,USA,North America
+L4.13.1 SRR33938718,USA,North America
+L4.13.1 SRR34003993,USA,North America
+L4.13.1 SRR3675213,United Kingdom,Western Europe
+L4.13.1 SRR6831923,missing,Unknown
+L4.13.1 SRR7131174,Italy,Western Europe
+L4.13.2 ERR046997,United Kingdom,Western Europe
+L4.13.2 ERR072039,United Kingdom,Western Europe
+L4.13.2 ERR1023298,Unknown,Unknown
+L4.13.2 ERR1023334,Unknown,Unknown
+L4.13.2 ERR1034655,Unknown,Unknown
+L4.13.2 ERR1034661,Unknown,Unknown
+L4.13.2 ERR11043057,Unknown,Unknown
+L4.13.2 ERR11043060,Unknown,Unknown
+L4.13.2 ERR11043114,Unknown,Unknown
+L4.13.2 ERR11043115,Unknown,Unknown
+L4.13.2 ERR11043177,Unknown,Unknown
+L4.13.2 ERR11043607,Unknown,Unknown
+L4.13.2 ERR11043647,Unknown,Unknown
+L4.13.2 ERR11043655,Unknown,Unknown
+L4.13.2 ERR11043766,Unknown,Unknown
+L4.13.2 ERR11043794,Unknown,Unknown
+L4.13.2 ERR11043908,Unknown,Unknown
+L4.13.2 ERR11043910,Unknown,Unknown
+L4.13.2 ERR11043911,Unknown,Unknown
+L4.13.2 ERR11044050,Unknown,Unknown
+L4.13.2 ERR11044068,Unknown,Unknown
+L4.13.2 ERR11044122,Unknown,Unknown
+L4.13.2 ERR11044225,Unknown,Unknown
+L4.13.2 ERR11044330,Unknown,Unknown
+L4.13.2 ERR11044385,Unknown,Unknown
+L4.13.2 ERR11044386,Unknown,Unknown
+L4.13.2 ERR11044401,Unknown,Unknown
+L4.13.2 ERR11044481,Unknown,Unknown
+L4.13.2 ERR11044528,Unknown,Unknown
+L4.13.2 ERR11044592,Unknown,Unknown
+L4.13.2 ERR11044620,Unknown,Unknown
+L4.13.2 ERR11044756,Unknown,Unknown
+L4.13.2 ERR11044956,Unknown,Unknown
+L4.13.2 ERR11044962,Unknown,Unknown
+L4.13.2 ERR11049087,Unknown,Unknown
+L4.13.2 ERR11049497,Unknown,Unknown
+L4.13.2 ERR11049552,Unknown,Unknown
+L4.13.2 ERR11049626,Unknown,Unknown
+L4.13.2 ERR11049714,Unknown,Unknown
+L4.13.2 ERR11049724,Unknown,Unknown
+L4.13.2 ERR11049737,Unknown,Unknown
+L4.13.2 ERR11049857,Unknown,Unknown
+L4.13.2 ERR11050069,Unknown,Unknown
+L4.13.2 ERR11050086,Unknown,Unknown
+L4.13.2 ERR11050283,Unknown,Unknown
+L4.13.2 ERR11050810,Unknown,Unknown
+L4.13.2 ERR11067219,Unknown,Unknown
+L4.13.2 ERR11067411,Unknown,Unknown
+L4.13.2 ERR11067434,Unknown,Unknown
+L4.13.2 ERR11067520,Unknown,Unknown
+L4.13.2 ERR11067530,Unknown,Unknown
+L4.13.2 ERR11067727,Unknown,Unknown
+L4.13.2 ERR11067810,Unknown,Unknown
+L4.13.2 ERR11067830,Unknown,Unknown
+L4.13.2 ERR11068047,Unknown,Unknown
+L4.13.2 ERR11068203,Unknown,Unknown
+L4.13.2 ERR11068570,Unknown,Unknown
+L4.13.2 ERR11068646,Unknown,Unknown
+L4.13.2 ERR11068759,Unknown,Unknown
+L4.13.2 ERR11068773,Unknown,Unknown
+L4.13.2 ERR11068935,Unknown,Unknown
+L4.13.2 ERR11080999,Unknown,Unknown
+L4.13.2 ERR11081333,Unknown,Unknown
+L4.13.2 ERR11081496,Unknown,Unknown
+L4.13.2 ERR11081499,Unknown,Unknown
+L4.13.2 ERR11082010,Unknown,Unknown
+L4.13.2 ERR11082143,Unknown,Unknown
+L4.13.2 ERR11082290,Unknown,Unknown
+L4.13.2 ERR11082732,Unknown,Unknown
+L4.13.2 ERR11082879,Unknown,Unknown
+L4.13.2 ERR11082948,Unknown,Unknown
+L4.13.2 ERR11083139,Unknown,Unknown
+L4.13.2 ERR11244305,Georgia,Caucasus
+L4.13.2 ERR11244357,Georgia,Caucasus
+L4.13.2 ERR11246140,Georgia,Caucasus
+L4.13.2 ERR11811369,Georgia,Caucasus
+L4.13.2 ERR11811388,Georgia,Caucasus
+L4.13.2 ERR13267597,Germany,Western Europe
+L4.13.2 ERR13272907,Germany,Western Europe
+L4.13.2 ERR13273053,Germany,Western Europe
+L4.13.2 ERR13283989,Germany,Western Europe
+L4.13.2 ERR13291785,USA,North America
+L4.13.2 ERR13292200,USA,North America
+L4.13.2 ERR13430442,Georgia,Caucasus
+L4.13.2 ERR13430443,Georgia,Caucasus
+L4.13.2 ERR15576967,Georgia,Caucasus
+L4.13.2 ERR15576968,Georgia,Caucasus
+L4.13.2 ERR2041707,Unknown,Unknown
+L4.13.2 ERR2041708,Unknown,Unknown
+L4.13.2 ERR2446246,Netherlands,Western Europe
+L4.13.2 ERR2446487,Netherlands,Western Europe
+L4.13.2 ERR2510830,Unknown,Unknown
+L4.13.2 ERR2512852,Unknown,Unknown
+L4.13.2 ERR2513713,Unknown,Unknown
+L4.13.2 ERR2514076,Unknown,Unknown
+L4.13.2 ERR2514189,Unknown,Unknown
+L4.13.2 ERR2516176,Unknown,Unknown
+L4.13.2 ERR2516228,Unknown,Unknown
+L4.13.2 ERR2516561,Unknown,Unknown
+L4.13.2 ERR2517277,Unknown,Unknown
+L4.13.2 ERR2517392,Unknown,Unknown
+L4.13.2 ERR2517428,Unknown,Unknown
+L4.13.2 ERR2517447,Unknown,Unknown
+L4.13.2 ERR2517519,Unknown,Unknown
+L4.13.2 ERR257886,Netherlands,Western Europe
+L4.13.2 ERR2677415,Unknown,Unknown
+L4.13.2 ERR2851357,Lebanon,Middle East
+L4.13.2 ERR3275345,Unknown,Unknown
+L4.13.2 ERR3275506,Unknown,Unknown
+L4.13.2 ERR3275665,Unknown,Unknown
+L4.13.2 ERR3275682,Unknown,Unknown
+L4.13.2 ERR3275771,Unknown,Unknown
+L4.13.2 ERR3275960,Unknown,Unknown
+L4.13.2 ERR3335734,Unknown,Unknown
+L4.13.2 ERR3335747,Unknown,Unknown
+L4.13.2 ERR3802174,Sweden,Western Europe
+L4.13.2 ERR3802175,Sweden,Western Europe
+L4.13.2 ERR400315,Unknown,Unknown
+L4.13.2 ERR4553627,Bangladesh,South Asia
+L4.13.2 ERR4814339,Unknown,Unknown
+L4.13.2 ERR4814614,Unknown,Unknown
+L4.13.2 ERR4816053,Unknown,Unknown
+L4.13.2 ERR4816452,Unknown,Unknown
+L4.13.2 ERR4816721,Unknown,Unknown
+L4.13.2 ERR4818274,Unknown,Unknown
+L4.13.2 ERR4819906,Unknown,Unknown
+L4.13.2 ERR4820961,Unknown,Unknown
+L4.13.2 ERR4820970,Unknown,Unknown
+L4.13.2 ERR4820974,Unknown,Unknown
+L4.13.2 ERR4821805,Unknown,Unknown
+L4.13.2 ERR4830896,Unknown,Unknown
+L4.13.2 ERR550924,Unknown,Unknown
+L4.13.2 ERR551347,Unknown,Unknown
+L4.13.2 ERR551574,Unknown,Unknown
+L4.13.2 ERR551657,Unknown,Unknown
+L4.13.2 ERR551734,Unknown,Unknown
+L4.13.2 ERR552272,Unknown,Unknown
+L4.13.2 ERR553174,Unknown,Unknown
+L4.13.2 ERR553220,Unknown,Unknown
+L4.13.2 ERR553346,Unknown,Unknown
+L4.13.2 ERR553390,Unknown,Unknown
+L4.13.2 ERR7801809,Tanzania,Sub-Saharan Africa
+L4.13.2 ERR8773521,Switzerland,Western Europe
+L4.13.2 ERR8773523,Switzerland,Western Europe
+L4.13.2 ERR8773542,Switzerland,Western Europe
+L4.13.2 ERR8773857,Georgia,Caucasus
+L4.13.2 ERR8773963,Georgia,Caucasus
+L4.13.2 ERR8775758,Switzerland,Western Europe
+L4.13.2 ERR8958140,Switzerland,Western Europe
+L4.13.2 SRR16088141,Georgia,Caucasus
+L4.13.2 SRR16088242,Georgia,Caucasus
+L4.13.2 SRR16088455,Georgia,Caucasus
+L4.13.2 SRR16100228,USA,North America
+L4.13.2 SRR16115019,USA,North America
+L4.13.2 SRR16149167,Bulgaria,Eastern Europe
+L4.13.2 SRR18067127,Spain,Western Europe
+L4.13.2 SRR18714986,Georgia,Caucasus
+L4.13.2 SRR19303962,Italy,Western Europe
+L4.13.2 SRR19324806,USA,North America
+L4.13.2 SRR2100564,missing,Unknown
+L4.13.2 SRR21675839,USA,North America
+L4.13.2 SRR21689570,Netherlands,Western Europe
+L4.13.2 SRR21689746,Netherlands,Western Europe
+L4.13.2 SRR21690144,Netherlands,Western Europe
+L4.13.2 SRR21690182,Netherlands,Western Europe
+L4.13.2 SRR21690714,Netherlands,Western Europe
+L4.13.2 SRR21690784,Netherlands,Western Europe
+L4.13.2 SRR21732683,Australia,Oceania
+L4.13.2 SRR24222969,Israel,Middle East
+L4.13.2 SRR28240124,Georgia,Caucasus
+L4.13.2 SRR28860020,USA,North America
+L4.13.2 SRR29017048,Bangladesh,South Asia
+L4.13.2 SRR29052739,USA,North America
+L4.13.2 SRR29055771,USA,North America
+L4.13.2 SRR29126634,Italy,Western Europe
+L4.13.2 SRR29274230,Bulgaria,Eastern Europe
+L4.13.2 SRR29274248,Bulgaria,Eastern Europe
+L4.13.2 SRR29274280,Bulgaria,Eastern Europe
+L4.13.2 SRR29356798,Israel,Middle East
+L4.13.2 SRR30679867,Australia,Oceania
+L4.13.2 SRR33445613,Kosovo,Eastern Europe
+L4.13.2 SRR33445629,Kosovo,Eastern Europe
+L4.13.2 SRR33445654,Kosovo,Eastern Europe
+L4.13.2 SRR33605180,USA,North America
+L4.13.2 SRR33657636,USA,North America
+L4.13.2 SRR33713040,USA,North America
+L4.13.2 SRR33792933,USA,North America
+L4.13.2 SRR33818442,USA,North America
+L4.13.2 SRR33842973,USA,North America
+L4.13.2 SRR33891348,USA,North America
+L4.13.2 SRR33893499,USA,North America
+L4.13.2 SRR33894822,USA,North America
+L4.13.2 SRR33912389,USA,North America
+L4.13.2 SRR33953301,USA,North America
+L4.13.2 SRR5486877,Romania,Eastern Europe
+L4.13.2 SRR7069574,United Kingdom,Western Europe
+L4.13.2 SRR7341695,Romania,Eastern Europe
+L4.4.2 SRR22251819,Unknown,Unknown
+L4.4.2 SRR15723013,Unknown,Unknown
+L4.4.2 SRR15316412,Unknown,Unknown
+L4.4.2 SRR15723083,Unknown,Unknown
+L4.4.2 SRR15315804,Unknown,Unknown
+L4.2.1 SRR14781935,Unknown,Unknown
+L4.2.1 ERR5864402,Unknown,Unknown
+L4.2.1 ERR234572,Unknown,Unknown
+L4.2.1 ERR10762358,Unknown,Unknown
+L4.2.1 ERR8773699,Unknown,Unknown

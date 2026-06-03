@@ -1,0 +1,109 @@
+strain_id,country,region
+L4.13.1 ERR13093900,Ireland,Western Europe
+L4.13.1 ERR13260031,USA,North America
+L4.13.1 ERR13285463,USA,North America
+L4.13.1 ERR13285511,USA,North America
+L4.13.1 ERR13291662,USA,North America
+L4.13.1 ERR133897,Russia,Eastern Europe
+L4.13.1 ERR9891985,France,Western Europe
+L4.13.1 SRR18910996,USA,North America
+L4.13.1 SRR19304124,Italy,Western Europe
+L4.13.1 SRR21686598,USA,North America
+L4.13.1 SRR21689552,Netherlands,Western Europe
+L4.13.1 SRR21690138,Netherlands,Western Europe
+L4.13.1 SRR21690799,Netherlands,Western Europe
+L4.13.1 SRR21732354,Australia,Oceania
+L4.13.1 SRR28409333,USA,North America
+L4.13.1 SRR28646118,Romania,Eastern Europe
+L4.13.1 SRR28858582,USA,North America
+L4.13.1 SRR28860094,USA,North America
+L4.13.1 SRR29052642,USA,North America
+L4.13.1 SRR30984353,USA,North America
+L4.13.1 SRR31008949,Italy,Western Europe
+L4.13.1 SRR33840371,USA,North America
+L4.13.1 SRR33843028,USA,North America
+L4.13.1 SRR33857524,USA,North America
+L4.13.1 SRR33912642,USA,North America
+L4.13.1 SRR33938718,USA,North America
+L4.13.1 SRR34003993,USA,North America
+L4.13.1 SRR3675213,United Kingdom,Western Europe
+L4.13.1 SRR7131174,Italy,Western Europe
+L4.13.2 ERR046997,United Kingdom,Western Europe
+L4.13.2 ERR072039,United Kingdom,Western Europe
+L4.13.2 ERR11244305,Georgia,Caucasus
+L4.13.2 ERR11244357,Georgia,Caucasus
+L4.13.2 ERR11246140,Georgia,Caucasus
+L4.13.2 ERR11811369,Georgia,Caucasus
+L4.13.2 ERR11811388,Georgia,Caucasus
+L4.13.2 ERR13267597,Germany,Western Europe
+L4.13.2 ERR13272907,Germany,Western Europe
+L4.13.2 ERR13273053,Germany,Western Europe
+L4.13.2 ERR13283989,Germany,Western Europe
+L4.13.2 ERR13291785,USA,North America
+L4.13.2 ERR13292200,USA,North America
+L4.13.2 ERR13430442,Georgia,Caucasus
+L4.13.2 ERR13430443,Georgia,Caucasus
+L4.13.2 ERR15576967,Georgia,Caucasus
+L4.13.2 ERR15576968,Georgia,Caucasus
+L4.13.2 ERR2446246,Netherlands,Western Europe
+L4.13.2 ERR2446487,Netherlands,Western Europe
+L4.13.2 ERR257886,Netherlands,Western Europe
+L4.13.2 ERR2851357,Lebanon,Middle East
+L4.13.2 ERR3802174,Sweden,Western Europe
+L4.13.2 ERR3802175,Sweden,Western Europe
+L4.13.2 ERR4553627,Bangladesh,South Asia
+L4.13.2 ERR7801809,Tanzania,Sub-Saharan Africa
+L4.13.2 ERR8773521,Switzerland,Western Europe
+L4.13.2 ERR8773523,Switzerland,Western Europe
+L4.13.2 ERR8773542,Switzerland,Western Europe
+L4.13.2 ERR8773857,Georgia,Caucasus
+L4.13.2 ERR8773963,Georgia,Caucasus
+L4.13.2 ERR8775758,Switzerland,Western Europe
+L4.13.2 ERR8958140,Switzerland,Western Europe
+L4.13.2 SRR16088141,Georgia,Caucasus
+L4.13.2 SRR16088242,Georgia,Caucasus
+L4.13.2 SRR16088455,Georgia,Caucasus
+L4.13.2 SRR16100228,USA,North America
+L4.13.2 SRR16115019,USA,North America
+L4.13.2 SRR16149167,Bulgaria,Eastern Europe
+L4.13.2 SRR18067127,Spain,Western Europe
+L4.13.2 SRR18714986,Georgia,Caucasus
+L4.13.2 SRR19303962,Italy,Western Europe
+L4.13.2 SRR19324806,USA,North America
+L4.13.2 SRR21675839,USA,North America
+L4.13.2 SRR21689570,Netherlands,Western Europe
+L4.13.2 SRR21689746,Netherlands,Western Europe
+L4.13.2 SRR21690144,Netherlands,Western Europe
+L4.13.2 SRR21690182,Netherlands,Western Europe
+L4.13.2 SRR21690714,Netherlands,Western Europe
+L4.13.2 SRR21690784,Netherlands,Western Europe
+L4.13.2 SRR21732683,Australia,Oceania
+L4.13.2 SRR24222969,Israel,Middle East
+L4.13.2 SRR28240124,Georgia,Caucasus
+L4.13.2 SRR28860020,USA,North America
+L4.13.2 SRR29017048,Bangladesh,South Asia
+L4.13.2 SRR29052739,USA,North America
+L4.13.2 SRR29055771,USA,North America
+L4.13.2 SRR29126634,Italy,Western Europe
+L4.13.2 SRR29274230,Bulgaria,Eastern Europe
+L4.13.2 SRR29274248,Bulgaria,Eastern Europe
+L4.13.2 SRR29274280,Bulgaria,Eastern Europe
+L4.13.2 SRR29356798,Israel,Middle East
+L4.13.2 SRR30679867,Australia,Oceania
+L4.13.2 SRR33445613,Kosovo,Eastern Europe
+L4.13.2 SRR33445629,Kosovo,Eastern Europe
+L4.13.2 SRR33445654,Kosovo,Eastern Europe
+L4.13.2 SRR33605180,USA,North America
+L4.13.2 SRR33657636,USA,North America
+L4.13.2 SRR33713040,USA,North America
+L4.13.2 SRR33792933,USA,North America
+L4.13.2 SRR33818442,USA,North America
+L4.13.2 SRR33842973,USA,North America
+L4.13.2 SRR33891348,USA,North America
+L4.13.2 SRR33893499,USA,North America
+L4.13.2 SRR33894822,USA,North America
+L4.13.2 SRR33912389,USA,North America
+L4.13.2 SRR33953301,USA,North America
+L4.13.2 SRR5486877,Romania,Eastern Europe
+L4.13.2 SRR7069574,United Kingdom,Western Europe
+L4.13.2 SRR7341695,Romania,Eastern Europe

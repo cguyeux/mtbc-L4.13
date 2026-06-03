@@ -1,0 +1,250 @@
+SPDI,Clade,Position,Ref,Alt,Gene_name,Locus_tag,Strand,Effect,Impact,AA_Change,Product,Functional_Category,Annotation_Source
+NC_000962.3:1053430:T:C,L4.13,1053431,T,C,NP_215458.1,Rv0943c,-,synonymous_variant,LOW,P102P,monooxygenase,Unknown,local
+NC_000962.3:1063249:A:G,L4.13,1063250,A,G,sucD,Rv0952,+,synonymous_variant,LOW,Q37Q,succinyl-CoA ligase subunit alpha,Unknown,local
+NC_000962.3:1065607:C:G,L4.13,1065608,C,G,NP_215469.1,Rv0954,+,missense_variant,MODERATE,A161G,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:1098829:G:A,L4.13,1098830,G,A,mprB,Rv0982,+,synonymous_variant,LOW,L441L,two component histidine-protein kinase/phosphatase MprB,Regulatory proteins,local
+NC_000962.3:1103128:T:C,L4.13,1103129,T,C,NP_215502.1,Rv0987,+,synonymous_variant,LOW,L196L,adhesion component ABC transporter permease,Cell wall & cell processes,local
+NC_000962.3:1152673:C:T,L4.13,1152674,C,T,kdpA,Rv1029,+,synonymous_variant,LOW,G221G,potassium-transporting ATPase subunit A,Unknown,local
+NC_000962.3:1183519:G:A,L4.13,1183520,G,A,NP_215576.1,Rv1060,+,missense_variant,MODERATE,V5I,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:1194261:C:A,L4.13,1194262,C,A,NP_215585.1,Rv1069c,-,synonymous_variant,LOW,P4P,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:1195139:T:C,L4.13,1195140,T,C,echA9,Rv1071c,-,missense_variant,MODERATE,N318S,enoyl-CoA hydratase EchA9,Unknown,local
+NC_000962.3:1210606:C:T,L4.13,1210607,C,T,NP_215602.1,Rv1086,+,missense_variant,MODERATE,P5S,"(2Z,6E)-farnesyl diphosphate synthase",Intermediary metabolism & respiration,local
+NC_000962.3:1210673:C:T,L4.13,1210674,C,T,NP_215602.1,Rv1086,+,missense_variant,MODERATE,S27L,"(2Z,6E)-farnesyl diphosphate synthase",Intermediary metabolism & respiration,local
+NC_000962.3:1279344:C:T,L4.13,1279345,C,T,NP_215667.1,Rv1151c,-,synonymous_variant,LOW,L91L,NAD-dependent protein deacylase,Lipid metabolism,local
+NC_000962.3:1313319:C:T,L4.13,1313320,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_215695.1 / pks3),Intergenic,local
+NC_000962.3:1331069:G:A,L4.13,1331070,G,A,NP_215704.1,Rv1188,+,missense_variant,MODERATE,G17D,proline dehydrogenase,Intermediary metabolism & respiration,local
+NC_000962.3:133440:CG:C,L4.13,133441,CG,C,NP_214624.1,Rv0110,+,deletion,MODERATE,,integral membrane protein,Cell wall & cell processes,local
+NC_000962.3:1370740:T:C,L4.13,1370741,T,C,NP_215743.1,Rv1227c,-,missense_variant,MODERATE,S29G,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:1380907:C:G,L4.13,1380908,C,G,sugC,Rv1238,+,missense_variant,MODERATE,D75E,sugar ABC transporter ATP-binding protein SugC,Cell wall & cell processes,local
+NC_000962.3:1393591:A:C,L4.13,1393592,A,C,NP_215765.1,Rv1249c,-,missense_variant,MODERATE,S131A,membrane protein,Cell wall & cell processes,local
+NC_000962.3:140947:T:G,L4.13,140948,T,G,ldtA,Rv0116c,-,synonymous_variant,LOW,I25I,"L,D-transpeptidase LdtA",Unknown,local
+NC_000962.3:1438043:G:A,L4.13,1438044,G,A,cysD,Rv1285,+,missense_variant,MODERATE,E46K,sulfate adenylyltransferase subunit 2,Intermediary metabolism & respiration,local
+NC_000962.3:1495533:C:T,L4.13,1495534,C,T,glgP,Rv1328,+,missense_variant,MODERATE,T324I,glycogen phosphorylase,Unknown,local
+NC_000962.3:1500722:C:T,L4.13,1500723,C,T,NP_215847.1,Rv1331,+,synonymous_variant,LOW,V21V,ATP-dependent Clp protease adapter protein ClpS,Unknown,local
+NC_000962.3:1566707:G:C,L4.13,1566708,G,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (dfp / metK),Intergenic,local
+NC_000962.3:1581820:C:T,L4.13,1581821,C,T,NP_215921.1,Rv1405c,-,missense_variant,MODERATE,G50D,methyltransferase,Intermediary metabolism & respiration,local
+NC_000962.3:1582163:G:T,L4.13,1582164,G,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_215921.1 / fmt),Intergenic,local
+NC_000962.3:1587982:C:T,L4.13,1587983,C,T,lprG,Rv1411c,-,missense_variant,MODERATE,R167H,lipoprotein LprG,Cell wall & cell processes,local
+NC_000962.3:1655571:A:G,L4.13,1655572,A,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (fadE15 / PE_PGRS29),Intergenic,local
+NC_000962.3:1700563:G:A,L4.13,1700564,G,A,NP_216025.1,Rv1509,+,missense_variant,MODERATE,C118Y,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:1717689:T:G,L4.13,1717690,T,G,NP_216039.1,Rv1523,+,missense_variant,MODERATE,L13R,methyltransferase,Intermediary metabolism & respiration,local
+NC_000962.3:1719798:G:A,L4.13,1719799,G,A,NP_216040.1,Rv1524,+,synonymous_variant,LOW,G358G,glycosyltransferase,Intermediary metabolism & respiration,local
+NC_000962.3:1722351:C:T,L4.13,1722352,C,T,pks5,Rv1527c,-,missense_variant,MODERATE,V2020M,polyketide synthase,Lipid metabolism,local
+NC_000962.3:1737754:C:T,L4.13,1737755,C,T,ileS,Rv1536,+,missense_variant,MODERATE,H413Y,isoleucine--tRNA ligase,Unknown,local
+NC_000962.3:1798250:C:A,L4.13,1798251,C,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (nadC / NP_216113.1),Intergenic,local
+NC_000962.3:1801244:G:A,L4.13,1801245,G,A,hisC1,Rv1600,+,missense_variant,MODERATE,G117E,histidinol-phosphate aminotransferase,Intermediary metabolism & respiration,local
+NC_000962.3:1804757:C:A,L4.13,1804758,C,A,impA,Rv1604,+,synonymous_variant,LOW,T240T,inositol-monophosphatase ImpA,Unknown,local
+NC_000962.3:1804:C:A,L4.13,1805,C,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (dnaA / dnaN),Intergenic,local
+NC_000962.3:1842423:C:T,L4.13,1842424,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216151.1 / TB15.3),Intergenic,local
+NC_000962.3:1854240:C:G,L4.13,1854241,C,G,tsnR,Rv1644,+,synonymous_variant,LOW,P212P,23S rRNA methyltransferase TsnR,Intermediary metabolism & respiration,local
+NC_000962.3:186631:CT:C,L4.13,186632,CT,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (YP_007408797.1 / NP_214672.1),Intergenic,local
+NC_000962.3:1871937:C:G,L4.13,1871938,C,G,argG,Rv1658,+,missense_variant,MODERATE,H192Q,argininosuccinate synthase,Intermediary metabolism & respiration,local
+NC_000962.3:1872530:A:G,L4.13,1872531,A,G,argG,Rv1658,+,missense_variant,MODERATE,K390R,argininosuccinate synthase,Intermediary metabolism & respiration,local
+NC_000962.3:1875048:C:A,L4.13,1875049,C,A,pks10,Rv1660,+,missense_variant,MODERATE,A297D,chalcone synthase,Lipid metabolism,local
+NC_000962.3:1900224:T:C,L4.13,1900225,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216190.1 / cmr),Intergenic,local
+NC_000962.3:1900537:GT:G,L4.13,1900538,GT,G,cmr,Rv1675c,-,deletion,MODERATE,,HTH-type transcriptional regulator Cmr,Regulatory proteins,local
+NC_000962.3:19424:G:A,L4.13,19425,G,A,pbpA,Rv0016c,-,synonymous_variant,LOW,P270P,penicillin-binding protein PbpA,Cell wall & cell processes,local
+NC_000962.3:1956690:A:C,L4.13,1956691,A,C,NP_216246.1,Rv1730c,-,stop_gained,HIGH,Y185*,penicillin-binding protein,Unknown,local
+NC_000962.3:1965794:C:A,L4.13,1965795,C,A,NP_216254.1,Rv1738,+,missense_variant,MODERATE,L47I,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:196687:GT:G,L4.13,196688,GT,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (fadD5 / yrbE1A),Intergenic,local
+NC_000962.3:1987468:T:C,L4.13,1987469,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216270.1 / cut1),Intergenic,local
+NC_000962.3:2072283:T:C,L4.13,2072284,T,C,gcvH,Rv1826,+,synonymous_variant,LOW,D111D,glycine cleavage system protein H,Unknown,local
+NC_000962.3:2099363:G:A,L4.13,2099364,G,A,ureC,Rv1850,+,missense_variant,MODERATE,M468I,urease subunit alpha,Unknown,local
+NC_000962.3:2110359:C:T,L4.13,2110360,C,T,adhA,Rv1862,+,synonymous_variant,LOW,L273L,alcohol dehydrogenase A,Intermediary metabolism & respiration,local
+NC_000962.3:2121660:T:C,L4.13,2121661,T,C,NP_216387.1,Rv1871c,-,missense_variant,MODERATE,N75S,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2123447:C:T,L4.13,2123448,C,T,NP_216389.1,Rv1873,+,missense_variant,MODERATE,S92L,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2153266:G:A,L4.13,2153267,G,A,NP_216423.1,Rv1907c,-,missense_variant,MODERATE,L206F,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2153717:C:G,L4.13,2153718,C,G,NP_216423.1,Rv1907c,-,missense_variant,MODERATE,K55N,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2154914:T:C,L4.13,2154915,T,C,katG,Rv1908c,-,synonymous_variant,LOW,E399E,catalase-peroxidase,Intermediary metabolism & respiration,local
+NC_000962.3:2159995:CT:C,L4.13,2159996,CT,C,NP_216430.1,Rv1914c,-,deletion,MODERATE,,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2163592:G:A,L4.13,2163593,G,A,PPE34,Rv1917c,-,missense_variant,MODERATE,T1240I,PPE family protein PPE34,PE/PPE,local
+NC_000962.3:2176231:G:A,L4.13,2176232,G,A,lipD,Rv1923,+,missense_variant,MODERATE,G354S,lipase LipD,Unknown,local
+NC_000962.3:2183855:C:A,L4.13,2183856,C,A,tpx,Rv1932,+,missense_variant,MODERATE,A162E,2-Cys peroxiredoxin,Unknown,local
+NC_000962.3:2212905:C:T,L4.13,2212906,C,T,mce3D,Rv1969,+,synonymous_variant,LOW,L18L,Mce family protein Mce3D,Cell wall & cell processes,local
+NC_000962.3:2214019:A:G,L4.13,2214020,A,G,mce3D,Rv1969,+,missense_variant,MODERATE,Y389C,Mce family protein Mce3D,Cell wall & cell processes,local
+NC_000962.3:223055:T:C,L4.13,223056,T,C,NP_214705.1,Rv0191,+,synonymous_variant,LOW,N256N,MFS-type transporter,Cell wall & cell processes,local
+NC_000962.3:2245192:G:A,L4.13,2245193,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216515.1 / NP_216516.1),Intergenic,local
+NC_000962.3:2274319:G:A,L4.13,2274320,G,A,dosT,Rv2027c,-,synonymous_variant,LOW,D63D,two component sensor histidine kinase DosT,Regulatory proteins,local
+NC_000962.3:2278058:A:G,L4.13,2278059,A,G,NP_216546.1,Rv2030c,-,missense_variant,MODERATE,V143A,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2294203:C:T,L4.13,2294204,C,T,NP_216563.1,Rv2047c,-,missense_variant,MODERATE,R108H,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:230046:G:C,L4.13,230047,G,C,NP_214708.1,Rv0194,+,missense_variant,MODERATE,G1057A,multidrug ABC transporter ATPase/permease,Cell wall & cell processes,local
+NC_000962.3:2311455:C:T,L4.13,2311456,C,T,NP_216568.1,Rv2052c,-,synonymous_variant,LOW,V354V,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2312555:AC:A,L4.13,2312556,AC,A,fxsA,Rv2053c,-,deletion,MODERATE,,transmembrane protein FxsA,Cell wall & cell processes,local
+NC_000962.3:2320544:C:T,L4.13,2320545,C,T,cobN,Rv2062c,-,missense_variant,MODERATE,G70D,cobalamin biosynthesis protein CobN,Unknown,local
+NC_000962.3:2374745:G:A,L4.13,2374746,G,A,mpa,Rv2115c,-,synonymous_variant,LOW,S515S,proteasome-associated ATPase,Unknown,local
+NC_000962.3:2390475:G:A,L4.13,2390476,G,A,NP_216645.1,Rv2129c,-,synonymous_variant,LOW,C238C,oxidoreductase,Intermediary metabolism & respiration,local
+NC_000962.3:2398748:C:A,L4.13,2398749,C,A,pyrD,Rv2139,+,missense_variant,MODERATE,F10L,dihydroorotate dehydrogenase,Intermediary metabolism & respiration,local
+NC_000962.3:2410355:G:T,L4.13,2410356,G,T,ftsQ,Rv2151c,-,synonymous_variant,LOW,R96R,cell division protein FtsQ,Cell wall & cell processes,local
+NC_000962.3:2423135:A:G,L4.13,2423136,A,G,NP_216677.1,Rv2161c,-,missense_variant,MODERATE,M1T,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2448094:C:T,L4.13,2448095,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216702.1 / fadD15),Intergenic,local
+NC_000962.3:2453809:T:C,L4.13,2453810,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216706.1 / NP_216707.1),Intergenic,local
+NC_000962.3:2465367:C:G,L4.13,2465368,C,G,asnB,Rv2201,+,missense_variant,MODERATE,H124Q,asparagine synthetase,Unknown,local
+NC_000962.3:2477447:G:A,L4.13,2477448,G,A,NP_216728.1,Rv2212,+,missense_variant,MODERATE,G87S,adenylyl cyclase,Unknown,local
+NC_000962.3:2478063:G:A,L4.13,2478064,G,A,NP_216728.1,Rv2212,+,missense_variant,MODERATE,G292D,adenylyl cyclase,Unknown,local
+NC_000962.3:2484184:G:A,L4.13,2484185,G,A,NP_216732.1,Rv2216,+,missense_variant,MODERATE,R187Q,epimerase family protein,Unknown,local
+NC_000962.3:2558618:G:C,L4.13,2558619,G,C,NP_216801.1,Rv2285,+,missense_variant,MODERATE,A383P,diacylglycerol acyltransferase,Lipid metabolism,local
+NC_000962.3:2562388:G:C,L4.13,2562389,G,C,cdh,Rv2289,+,missense_variant,MODERATE,G239R,CDP-diacylglycerol pyrophosphatase,Lipid metabolism,local
+NC_000962.3:2577482:G:A,L4.13,2577483,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216821.1 / NP_216823.1),Intergenic,local
+NC_000962.3:2582804:T:G,L4.13,2582805,T,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (metV / YP_177668.1),Intergenic,local
+NC_000962.3:2697725:C:A,L4.13,2697726,C,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (subI / NP_216917.2),Intergenic,local
+NC_000962.3:2700384:G:C,L4.13,2700385,G,C,NP_216918.3,Rv2402,+,synonymous_variant,LOW,V619V,trehalase,Unknown,local
+NC_000962.3:2774716:T:G,L4.13,2774717,T,G,aglA,Rv2471,+,missense_variant,MODERATE,V385G,alpha-glucosidase AglA,Unknown,local
+NC_000962.3:2778448:G:T,L4.13,2778449,G,T,gdh,Rv2476c,-,synonymous_variant,LOW,R1272R,NAD-dependent glutamate dehydrogenase,Intermediary metabolism & respiration,local
+NC_000962.3:2794004:CGACGTCAG:C,L4.13,2794005,CGACGTCAG,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (lipQ / argW),Intergenic,local
+NC_000962.3:2807516:C:A,L4.13,2807517,C,A,NP_217008.1,Rv2492,+,missense_variant,MODERATE,F80L,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2816659:C:T,L4.13,2816660,C,T,accA1,Rv2501c,-,missense_variant,MODERATE,G74E,acetyl/propionyl-CoA carboxylase subuit alpha,Lipid metabolism,local
+NC_000962.3:282069:A:C,L4.13,282070,A,C,NP_214749.1,Rv0235c,-,missense_variant,MODERATE,L182R,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:2868899:G:A,L4.13,2868900,G,A,vapC19,Rv2548,+,missense_variant,MODERATE,R14H,ribonuclease VapC19,Unknown,local
+NC_000962.3:2881461:T:A,L4.13,2881462,T,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_217076.1 / NP_217079.1),Intergenic,local
+NC_000962.3:2946444:G:A,L4.13,2946445,G,A,NP_217134.1,Rv2618,+,synonymous_variant,LOW,V4V,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2984527:TG:T,L4.13,2984528,TG,T,clpC2,Rv2667,+,deletion,MODERATE,,ATP-dependent protease ATP-binding subunit ClpC,Unknown,local
+NC_000962.3:2993710:G:A,L4.13,2993711,G,A,hemY,Rv2677c,-,synonymous_variant,LOW,S94S,protoporphyrinogen oxidase,Intermediary metabolism & respiration,local
+NC_000962.3:3037713:C:T,L4.13,3037714,C,T,hflX,Rv2725c,-,missense_variant,MODERATE,D401N,GTP-binding protein HflX,Unknown,local
+NC_000962.3:304092:C:T,L4.13,304093,C,T,nirB,Rv0252,+,synonymous_variant,LOW,L410L,nitrite reductase large subunit NirB,Intermediary metabolism & respiration,local
+NC_000962.3:3050749:G:A,L4.13,3050750,G,A,recA,Rv2737c,-,synonymous_variant,LOW,D225D,recombinase A,Unknown,local
+NC_000962.3:3052774:C:T,L4.13,3052775,C,T,NP_217255.1,Rv2739c,-,missense_variant,MODERATE,G139S,transferase,Intermediary metabolism & respiration,local
+NC_000962.3:3072529:A:G,L4.13,3072530,A,G,hsdS,Rv2761c,-,synonymous_variant,LOW,Y37Y,type I restriction/modification system specificity determinant HsdS,Unknown,local
+NC_000962.3:3102245:G:A,L4.13,3102246,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_217308.1 / truB),Intergenic,local
+NC_000962.3:3111746:G:C,L4.13,3111747,G,C,NP_217318.1,Rv2802c,-,missense_variant,MODERATE,A26G,arginine/hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3135621:T:C,L4.13,3135622,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_217343.1 / NP_217344.1),Intergenic,local
+NC_000962.3:3169692:G:A,L4.13,3169693,G,A,aldC,Rv2858c,-,missense_variant,MODERATE,T344I,aldehyde dehydrogenase AldC,Intermediary metabolism & respiration,local
+NC_000962.3:3222055:G:A,L4.13,3222056,G,A,pknI,Rv2914c,-,missense_variant,MODERATE,P490L,serine/threonine-protein kinase PknI,Regulatory proteins,local
+NC_000962.3:3242204:C:T,L4.13,3242205,C,T,tesA,Rv2928,+,missense_variant,MODERATE,A3V,thioesterase TesA,Unknown,local
+NC_000962.3:3242388:C:T,L4.13,3242389,C,T,tesA,Rv2928,+,synonymous_variant,LOW,G64G,thioesterase TesA,Unknown,local
+NC_000962.3:3251610:A:G,L4.13,3251611,A,G,ppsB,Rv2932,+,synonymous_variant,LOW,A180A,phthiocerol synthesis polyketide synthase type I PpsB,Intermediary metabolism & respiration,local
+NC_000962.3:3266768:A:C,L4.13,3266769,A,C,ppsD,Rv2934,+,missense_variant,MODERATE,I1508L,phthiocerol synthesis polyketide synthase type I PpsD,Intermediary metabolism & respiration,local
+NC_000962.3:3277211:A:G,L4.13,3277212,A,G,mas,Rv2940c,-,missense_variant,MODERATE,V1835A,multifunctional mycocerosic acid synthase,Lipid metabolism,local
+NC_000962.3:3301679:T:G,L4.13,3301680,T,G,fadD29,Rv2950c,-,missense_variant,MODERATE,D259A,long-chain-fatty-acid--AMP ligase FadD29,Lipid metabolism,local
+NC_000962.3:33654:A:G,L4.13,33655,A,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_214544.1 / bioF2),Intergenic,local
+NC_000962.3:3366200:A:G,L4.13,3366201,A,G,NP_217523.1,Rv3007c,-,missense_variant,MODERATE,S84P,oxidoreductase,Intermediary metabolism & respiration,local
+NC_000962.3:3381098:G:A,L4.13,3381099,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (PE29 / NP_217539.1),Intergenic,local
+NC_000962.3:339298:G:A,L4.13,339299,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (PE_PGRS4 / PPE3),Intergenic,local
+NC_000962.3:3418028:C:T,L4.13,3418029,C,T,NP_217573.1,Rv3057c,-,missense_variant,MODERATE,D212N,short chain alcohol dehydrogenase/reductase,Intermediary metabolism & respiration,local
+NC_000962.3:3421260:G:C,L4.13,3421261,G,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (cyp136 / NP_217576.1),Intergenic,local
+NC_000962.3:3426237:A:G,L4.13,3426238,A,G,ligB,Rv3062,+,missense_variant,MODERATE,I219V,DNA ligase,Unknown,local
+NC_000962.3:3453883:C:G,L4.13,3453884,C,G,NP_217603.1,Rv3087,+,synonymous_variant,LOW,R320R,diacyglycerol O-acyltransferase,Lipid metabolism,local
+NC_000962.3:3460255:C:T,L4.13,3460256,C,T,NP_217607.1,Rv3091,+,missense_variant,MODERATE,H381Y,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3464982:G:A,L4.13,3464983,G,A,NP_217612.1,Rv3096,+,missense_variant,MODERATE,R146K,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3472253:C:T,L4.13,3472254,C,T,NP_217620.1,Rv3104c,-,synonymous_variant,LOW,V175V,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:3483128:A:T,L4.13,3483129,A,T,moeB2,Rv3116,+,missense_variant,MODERATE,E118D,molybdenum cofactor biosynthesis protein MoeB,Unknown,local
+NC_000962.3:3496870:G:C,L4.13,3496871,G,C,NP_217647.3,Rv3131,+,missense_variant,MODERATE,Q107H,NAD(P)H nitroreductase,Intermediary metabolism & respiration,local
+NC_000962.3:351694:G:A,L4.13,351695,G,A,esxG,Rv0287,+,synonymous_variant,LOW,R57R,ESAT-6 like protein EsxG,Cell wall & cell processes,local
+NC_000962.3:3527972:G:A,L4.13,3527973,G,A,PPE53,Rv3159c,-,synonymous_variant,LOW,T397T,PPE family protein PPE53,PE/PPE,local
+NC_000962.3:3569726:G:A,L4.13,3569727,G,A,uvrD2,Rv3198c,-,synonymous_variant,LOW,G495G,ATP-dependent DNA helicase UvrD,Information pathways,local
+NC_000962.3:3591503:T:C,L4.13,3591504,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_217729.1 / gpm2),Intergenic,local
+NC_000962.3:3640307:C:T,L4.13,3640308,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (whiB2 / fbiA),Intergenic,local
+NC_000962.3:3725862:A:G,L4.13,3725863,A,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (icd1 / metC),Intergenic,local
+NC_000962.3:3767551:C:A,L4.13,3767552,C,A,NP_217868.1,Rv3351c,-,stop_gained,HIGH,E197*,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3822725:C:T,L4.13,3822726,C,T,NP_217920.1,Rv3403c,-,missense_variant,MODERATE,A380T,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3851196:G:A,L4.13,3851197,G,A,gadB,Rv3432c,-,synonymous_variant,LOW,G186G,glutamate decarboxylase GadB,Unknown,local
+NC_000962.3:3851794:C:T,L4.13,3851795,C,T,NP_217950.1,Rv3433c,-,synonymous_variant,LOW,L473L,bifunctional ADP-dependent (S)-NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,Unknown,local
+NC_000962.3:3866032:T:C,L4.13,3866033,T,C,eccC4,Rv3447c,-,missense_variant,MODERATE,I736V,ESX-4 secretion system protein EccC4,Cell wall & cell processes,local
+NC_000962.3:3926407:G:C,L4.13,3926408,G,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (fadD17 / PE_PGRS53),Intergenic,local
+NC_000962.3:394493:C:T,L4.13,394494,C,T,NP_214842.1,Rv0328,+,synonymous_variant,LOW,A128A,transcriptional regulator,Regulatory proteins,local
+NC_000962.3:3964889:GGC:G,L4.13,3964890,GGC,G,NP_218045.1,Rv3528c,-,deletion,MODERATE,,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3971465:T:G,L4.13,3971466,T,G,PPE62,Rv3533c,-,missense_variant,MODERATE,N330H,PPE family protein PPE62,PE/PPE,local
+NC_000962.3:4060601:C:T,L4.13,4060602,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (esxW / PPE65),Intergenic,local
+NC_000962.3:4071528:C:A,L4.13,4071529,C,A,NP_218149.1,Rv3632,+,synonymous_variant,LOW,I98I,membrane protein,Cell wall & cell processes,local
+NC_000962.3:4090962:G:A,L4.13,4090963,G,A,NP_218166.1,Rv3649,+,missense_variant,MODERATE,C728Y,helicase,Information pathways,local
+NC_000962.3:4155676:C:T,L4.13,4155677,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (leuA / dnaQ),Intergenic,local
+NC_000962.3:4171696:AC:A,L4.13,4171697,AC,A,NP_218243.1,Rv3726,+,deletion,MODERATE,,dehydrogenase,Intermediary metabolism & respiration,local
+NC_000962.3:4205457:T:C,L4.13,4205458,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (proX / NP_218277.1),Intergenic,local
+NC_000962.3:4210956:T:A,L4.13,4210957,T,A,tcrY,Rv3764c,-,missense_variant,MODERATE,Q18L,two component sensor kinase TcrY,Regulatory proteins,local
+NC_000962.3:4225104:T:C,L4.13,4225105,T,C,NP_218296.1,Rv3779,+,missense_variant,MODERATE,Y41H,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:4305688:T:C,L4.13,4305689,T,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_218347.1 / NP_218348.1),Intergenic,local
+NC_000962.3:4316798:C:T,L4.13,4316799,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_218360.1 / MTS2975),Intergenic,local
+NC_000962.3:432323:A:G,L4.13,432324,A,G,PPE8,Rv0355c,-,missense_variant,MODERATE,F786L,PPE family protein PPE8,PE/PPE,local
+NC_000962.3:4347694:G:A,L4.13,4347695,G,A,eccCa1,Rv3870,+,synonymous_variant,LOW,K405K,ESX-1 secretion system protein EccCa,Cell wall & cell processes,local
+NC_000962.3:4357723:A:C,L4.13,4357724,A,C,espK,Rv3879c,-,missense_variant,MODERATE,S687A,ESX-1 secretion-associated protein EspK,Cell wall & cell processes,local
+NC_000962.3:4371247:G:A,L4.13,4371248,G,A,eccD2,Rv3887c,-,missense_variant,MODERATE,A146V,ESX-2 secretion system protein EccD,Cell wall & cell processes,local
+NC_000962.3:4375790:C:G,L4.13,4375791,C,G,PE36,Rv3893c,-,missense_variant,MODERATE,A69P,PE family protein PE36,PE/PPE,local
+NC_000962.3:4378753:C:G,L4.13,4378754,C,G,eccC2,Rv3894c,-,missense_variant,MODERATE,G567R,ESX-2 type VII secretion system protein EccC,Cell wall & cell processes,local
+NC_000962.3:4381753:G:A,L4.13,4381754,G,A,eccB2,Rv3895c,-,missense_variant,MODERATE,L63F,ESX-2 secretion system protein EccB,Cell wall & cell processes,local
+NC_000962.3:4388200:G:C,L4.13,4388201,G,C,NP_218420.1,Rv3903c,-,synonymous_variant,LOW,L744L,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:484908:C:A,L4.13,484909,C,A,fadD30,Rv0404,+,missense_variant,MODERATE,F311L,long-chain-fatty-acid--AMP ligase FadD30,Lipid metabolism,local
+NC_000962.3:524958:C:T,L4.13,524959,C,T,pssA,Rv0436c,-,synonymous_variant,LOW,A144A,CDP-diacylglycerol--serine O-phosphatidyltransferase,Lipid metabolism,local
+NC_000962.3:541242:G:A,L4.13,541243,G,A,mmpL4,Rv0450c,-,synonymous_variant,LOW,S83S,transmembrane transport protein MmpL4,Cell wall & cell processes,local
+NC_000962.3:545128:C:G,L4.13,545129,C,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (PPE11 / NP_214969.1),Intergenic,local
+NC_000962.3:563472:T:G,L4.13,563473,T,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_214986.1 / NP_214987.2),Intergenic,local
+NC_000962.3:595443:C:T,L4.13,595444,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_215018.1 / serB1),Intergenic,local
+NC_000962.3:614723:C:T,L4.13,614724,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_215037.1 / hemL),Intergenic,local
+NC_000962.3:642414:A:C,L4.13,642415,A,C,fadD8,Rv0551c,-,missense_variant,MODERATE,S133A,fatty-acid--CoA ligase FadD8,Lipid metabolism,local
+NC_000962.3:65010:G:A,L4.13,65011,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_214574.1 / YP_007408697.1),Intergenic,local
+NC_000962.3:69543:G:C,L4.13,69544,G,C,NP_214578.1,Rv0064,+,missense_variant,MODERATE,E309Q,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:70332:G:A,L4.13,70333,G,A,NP_214578.1,Rv0064,+,missense_variant,MODERATE,D572N,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:709092:T:C,L4.13,709093,T,C,NP_215127.1,Rv0613c,-,synonymous_variant,LOW,A141A,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:71211:C:G,L4.13,71212,C,G,NP_214578.1,Rv0064,+,missense_variant,MODERATE,R865G,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:736944:T:C,L4.13,736945,T,C,mmaA4,Rv0642c,-,missense_variant,MODERATE,T87A,hydroxymycolate synthase MmaA4,Lipid metabolism,local
+NC_000962.3:757000:G:T,L4.13,757001,G,T,atsD,Rv0663,+,missense_variant,MODERATE,A289S,arylsulfatase AtsD,Unknown,local
+NC_000962.3:774346:C:T,L4.13,774347,C,T,NP_215188.1,Rv0674,+,missense_variant,MODERATE,T95I,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:78125:A:G,L4.13,78126,A,G,glyA2,Rv0070c,-,synonymous_variant,LOW,P257P,serine hydroxymethyltransferase,Intermediary metabolism & respiration,local
+NC_000962.3:851313:T:G,L4.13,851314,T,G,NP_215270.1,Rv0756c,-,synonymous_variant,LOW,S51S,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:861894:C:A,L4.13,861895,C,A,aldA,Rv0768,+,synonymous_variant,LOW,P328P,aldehyde dehydrogenase AldA,Intermediary metabolism & respiration,local
+NC_000962.3:862293:C:T,L4.13,862294,C,T,aldA,Rv0768,+,synonymous_variant,LOW,Y461Y,aldehyde dehydrogenase AldA,Intermediary metabolism & respiration,local
+NC_000962.3:863705:C:T,L4.13,863706,C,T,NP_215284.1,Rv0770,+,missense_variant,MODERATE,R151W,oxidoreductase,Intermediary metabolism & respiration,local
+NC_000962.3:873631:C:G,L4.13,873632,C,G,purC,Rv0780,+,missense_variant,MODERATE,P97R,phosphoribosylaminoimidazole-succinocarboxamide synthase,Intermediary metabolism & respiration,local
+NC_000962.3:936612:G:A,L4.13,936613,G,A,pip,Rv0840c,-,synonymous_variant,LOW,F235F,proline iminopeptidase,Unknown,local
+NC_000962.3:939970:A:G,L4.13,939971,A,G,NP_215358.1,Rv0843,+,missense_variant,MODERATE,H195R,dehydrogenase,Intermediary metabolism & respiration,local
+NC_000962.3:94613:G:A,L4.13,94614,G,A,hycQ,Rv0086,+,missense_variant,MODERATE,G222S,hydrogenase HycQ,Unknown,local
+NC_000962.3:1151411:G:A,L4.13.1,1151412,G,A,kdpD,Rv1028c,-,missense_variant,MODERATE,A92V,sensor protein KdpD,Unknown,local
+NC_000962.3:180909:G:C,L4.13.1,180910,G,C,intergenic,,,intergenic_region,MODIFIER,,Intergenic (PE2 / ptbB),Intergenic,local
+NC_000962.3:1815127:G:A,L4.13.1,1815128,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (lgt / NP_216131.1),Intergenic,local
+NC_000962.3:187910:T:C,L4.13.1,187911,T,C,PE3,Rv0159c,-,missense_variant,MODERATE,Y310C,PE family protein PE3,PE/PPE,local
+NC_000962.3:2008017:G:T,L4.13.1,2008018,G,T,NP_216290.1,Rv1774,+,missense_variant,MODERATE,V63F,oxidoreductase,Intermediary metabolism & respiration,local
+NC_000962.3:2229960:G:T,L4.13.1,2229961,G,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216501.1 / NP_216502.1),Intergenic,local
+NC_000962.3:2419510:C:A,L4.13.1,2419511,C,A,murE,Rv2158c,-,synonymous_variant,LOW,V366V,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase",Cell wall & cell processes,local
+NC_000962.3:2459521:G:A,L4.13.1,2459522,G,A,qcrA,Rv2195,+,synonymous_variant,LOW,S377S,ubiquinol-cytochrome C reductase rieske iron-sulfur subunit,Intermediary metabolism & respiration,local
+NC_000962.3:2540907:A:G,L4.13.1,2540908,A,G,cyp124,Rv2266,+,missense_variant,MODERATE,N269D,cytochrome P450 Cyp124,Unknown,local
+NC_000962.3:2651354:G:C,L4.13.1,2651355,G,C,NP_216886.1,Rv2370c,-,missense_variant,MODERATE,N68K,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:2920062:A:G,L4.13.1,2920063,A,G,fadD9,Rv2590,+,missense_variant,MODERATE,I731M,fatty-acid--CoA ligase FadD9,Lipid metabolism,local
+NC_000962.3:3013755:T:C,L4.13.1,3013756,T,C,dut,Rv2697c,-,missense_variant,MODERATE,D131G,deoxyuridine 5'-triphosphate nucleotidohydrolase,Intermediary metabolism & respiration,local
+NC_000962.3:3015101:G:A,L4.13.1,3015102,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_217215.1 / NP_217216.1),Intergenic,local
+NC_000962.3:3294913:G:T,L4.13.1,3294914,G,T,pks1,Rv2946c,-,missense_variant,MODERATE,N480K,polyketide synthase,Lipid metabolism,local
+NC_000962.3:3478996:C:T,L4.13.1,3478997,C,T,moaB1,Rv3110,+,synonymous_variant,LOW,V73V,pterin-4-alpha-carbinolamine dehydratase,Unknown,local
+NC_000962.3:3749177:A:G,L4.13.1,3749178,A,G,PPE55,Rv3347c,-,missense_variant,MODERATE,L1336P,PPE family protein PPE55,PE/PPE,local
+NC_000962.3:3923155:G:T,L4.13.1,3923156,G,T,fadE26,Rv3504,+,missense_variant,MODERATE,R229L,acyl-CoA dehydrogenase FadE26,Lipid metabolism,local
+NC_000962.3:474247:G:T,L4.13.1,474248,G,T,NP_214908.1,Rv0394c,-,missense_variant,MODERATE,D198E,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:562191:C:T,L4.13.1,562192,C,T,YP_177622.1,Rv0470A,-,missense_variant,MODERATE,E35K,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:587220:G:A,L4.13.1,587221,G,A,NP_215010.3,Rv0496,+,synonymous_variant,LOW,P276P,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:872997:C:T,L4.13.1,872998,C,T,NP_215293.1,Rv0779c,-,missense_variant,MODERATE,G99S,transmembrane protein,Cell wall & cell processes,local
+NC_000962.3:873897:C:T,L4.13.1,873898,C,T,purC,Rv0780,+,missense_variant,MODERATE,H186Y,phosphoribosylaminoimidazole-succinocarboxamide synthase,Intermediary metabolism & respiration,local
+NC_000962.3:9170:G:C,L4.13.1,9171,G,C,gyrA,Rv0006,+,missense_variant,MODERATE,V624L,DNA gyrase subunit A,Information pathways,local
+NC_000962.3:1129237:G:A,L4.13.2,1129238,G,A,ksgA,Rv1010,+,synonymous_variant,LOW,R29R,rRNA small subunit methyltransferase A,Intermediary metabolism & respiration,local
+NC_000962.3:1283055:C:T,L4.13.2,1283056,C,T,NP_215673.1,Rv1157c,-,synonymous_variant,LOW,*372*,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:1301074:G:A,L4.13.2,1301075,G,A,mshB,Rv1170,+,missense_variant,MODERATE,A258T,1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase,Unknown,local
+NC_000962.3:1327096:C:G,L4.13.2,1327097,C,G,fadD21,Rv1185c,-,missense_variant,MODERATE,G139A,fatty-acid--CoA ligase FadD21,Lipid metabolism,local
+NC_000962.3:1970880:C:T,L4.13.2,1970881,C,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (pknE / NP_216260.1),Intergenic,local
+NC_000962.3:2175383:T:C,L4.13.2,2175384,T,C,lipD,Rv1923,+,missense_variant,MODERATE,I71T,lipase LipD,Unknown,local
+NC_000962.3:2228356:CG:C,L4.13.2,2228357,CG,C,cfp21,Rv1984c,-,deletion,MODERATE,,cutinase,Unknown,local
+NC_000962.3:2238960:AG:A,L4.13.2,2238961,AG,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216511.1 / NP_216512.1),Intergenic,local
+NC_000962.3:2276106:G:A,L4.13.2,2276107,G,A,pfkB,Rv2029c,-,synonymous_variant,LOW,N106N,6-phosphofructokinase PfkB,Regulatory proteins,local
+NC_000962.3:2412153:C:T,L4.13.2,2412154,C,T,murG,Rv2153c,-,missense_variant,MODERATE,V400I,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol-N-acetylglucosamine transferase,Cell wall & cell processes,local
+NC_000962.3:2437151:C:G,L4.13.2,2437152,C,G,mptA,Rv2174,+,missense_variant,MODERATE,A415G,alpha(1->6)-mannopyranosyltransferase A,Intermediary metabolism & respiration,local
+NC_000962.3:2684336:G:T,L4.13.2,2684337,G,T,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216906.1 / sirA),Intergenic,local
+NC_000962.3:2691636:G:A,L4.13.2,2691637,G,A,NP_216911.1,Rv2395,+,synonymous_variant,LOW,A522A,integral membrane protein,Cell wall & cell processes,local
+NC_000962.3:2733099:G:A,L4.13.2,2733100,G,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (NP_216951.1 / rbsK),Intergenic,local
+NC_000962.3:2797600:G:C,L4.13.2,2797601,G,C,NP_217004.1,Rv2488c,-,missense_variant,MODERATE,L1094V,LuxR family transcriptional regulator,Regulatory proteins,local
+NC_000962.3:2854648:A:G,L4.13.2,2854649,A,G,vapC39,Rv2530c,-,missense_variant,MODERATE,L13P,ribonuclease VapC39,Unknown,local
+NC_000962.3:301648:C:T,L4.13.2,301649,C,T,NP_214763.1,Rv0249c,-,missense_variant,MODERATE,A3T,succinate dehydrogenase membrane anchor subunit,Cell wall & cell processes,local
+NC_000962.3:3028273:G:C,L4.13.2,3028274,G,C,NP_217231.1,Rv2715,+,missense_variant,MODERATE,K59N,hydrolase,Intermediary metabolism & respiration,local
+NC_000962.3:3066500:C:T,L4.13.2,3066501,C,T,dapA,Rv2753c,-,synonymous_variant,LOW,T208T,4-hydroxy-tetrahydrodipicolinate synthase,Intermediary metabolism & respiration,local
+NC_000962.3:3069538:C:G,L4.13.2,3069539,C,G,hsdM,Rv2756c,-,missense_variant,MODERATE,G182A,type I restriction/modification system DNA methylase HsdM,Unknown,local
+NC_000962.3:3070097:T:G,L4.13.2,3070098,T,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (hsdM / vapC21),Intergenic,local
+NC_000962.3:3100766:C:T,L4.13.2,3100767,C,T,NP_217307.1,Rv2791c,-,missense_variant,MODERATE,R272H,transposase,Insertion sequences & phages,local
+NC_000962.3:3186017:C:A,L4.13.2,3186018,C,A,dipZ,Rv2874,+,missense_variant,MODERATE,A391D,integral membrane C-type cytochrome biogenesis protein DipZ,Cell wall & cell processes,local
+NC_000962.3:3437159:T:C,L4.13.2,3437160,T,C,NP_217590.1,Rv3074,+,synonymous_variant,LOW,L128L,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3540987:T:G,L4.13.2,3540988,T,G,NP_217688.1,Rv3172c,-,missense_variant,MODERATE,E126A,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3671117:T:C,L4.13.2,3671118,T,C,lat,Rv3290c,-,missense_variant,MODERATE,E226G,L-lysine-epsilon aminotransferase,Intermediary metabolism & respiration,local
+NC_000962.3:3680:C:T,L4.13.2,3681,C,T,recF,Rv0003,+,synonymous_variant,LOW,R134R,DNA replication/repair protein RecF,Unknown,local
+NC_000962.3:3767850:A:G,L4.13.2,3767851,A,G,NP_217868.1,Rv3351c,-,missense_variant,MODERATE,V97A,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:3866551:C:T,L4.13.2,3866552,C,T,eccC4,Rv3447c,-,missense_variant,MODERATE,G563S,ESX-4 secretion system protein EccC4,Cell wall & cell processes,local
+NC_000962.3:4045362:T:C,L4.13.2,4045363,T,C,NP_218120.1,Rv3603c,-,synonymous_variant,LOW,G252G,hypothetical protein,Conserved hypotheticals,local
+NC_000962.3:4291871:G:C,L4.13.2,4291872,G,C,papA1,Rv3824c,-,missense_variant,MODERATE,P435A,acyltransferase,Lipid metabolism,local
+NC_000962.3:517103:G:GCA,L4.13.2,517104,G,GCA,NP_214942.1,Rv0428c,-,frameshift_variant,HIGH,,GCN5-like N-acetyltransferase,Intermediary metabolism & respiration,local
+NC_000962.3:700811:A:G,L4.13.2,700812,A,G,lpqO,Rv0604,+,missense_variant,MODERATE,T192A,lipoprotein LpqO,Unknown,local
+NC_000962.3:718699:A:G,L4.13.2,718700,A,G,intergenic,,,intergenic_region,MODIFIER,,Intergenic (vapC5 / NP_215142.1),Intergenic,local
+NC_000962.3:724099:G:C,L4.13.2,724100,G,C,recB,Rv0630c,-,missense_variant,MODERATE,T305S,exonuclease V subunit beta RecB,Unknown,local
+NC_000962.3:725084:C:T,L4.13.2,725085,C,T,recC,Rv0631c,-,synonymous_variant,LOW,G1074G,exonuclease V subunit gamma RecC,Unknown,local
+NC_000962.3:782723:C:G,L4.13.2,782724,C,G,fusA1,Rv0684,+,synonymous_variant,LOW,L80L,elongation factor G,Unknown,local
+NC_000962.3:848719:C:T,L4.13.2,848720,C,T,PPE12,Rv0755c,-,missense_variant,MODERATE,G441S,PPE family protein PPE12,PE/PPE,local
+NC_000962.3:927696:C:A,L4.13.2,927697,C,A,intergenic,,,intergenic_region,MODIFIER,,Intergenic (PE_PGRS13 / PE_PGRS14),Intergenic,local

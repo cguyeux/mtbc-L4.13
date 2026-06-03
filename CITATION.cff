@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the following work."
+title: "Characterisation of L4.13, a cryptic European sub-lineage of Mycobacterium tuberculosis with candidate positive selection on accessory ESX-2/4 type VII secretion modules"
+authors:
+  - family-names: Guyeux
+    given-names: Christophe
+    affiliation: "FEMTO-ST Institute, DISC Department, Univ. Bourgogne Franche-Comté, Besançon, France"
+  - family-names: AlKindy
+    given-names: Bassam
+  - family-names: AlNayyef
+    given-names: Huda
+year: 2026
+status: in-preparation
+repository-code: "https://github.com/cguyeux/mtbc-L4.13"
+keywords:
+  - Mycobacterium tuberculosis
+  - MTBC
+  - L4.13
+  - phylogenomics
+  - SNP barcoding
+  - McDonald-Kreitman
+license: MIT
