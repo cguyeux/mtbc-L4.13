@@ -7,8 +7,10 @@ authors:
     affiliation: "FEMTO-ST Institute, DISC Department, Univ. Bourgogne Franche-Comté, Besançon, France"
   - family-names: AlKindy
     given-names: Bassam
+    affiliation: "Department of Computer Science, Mustansiriyah University, Baghdad, Iraq"
   - family-names: AlNayyef
     given-names: Huda
+    affiliation: "Department of Computer Science, Mustansiriyah University, Baghdad, Iraq"
 year: 2026
 status: in-preparation
 repository-code: "https://github.com/cguyeux/mtbc-L4.13"
